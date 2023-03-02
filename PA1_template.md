@@ -134,7 +134,7 @@ med_step_2
 ```
 ## [1] 10395
 ```
-There are no difference between the mean and median when we use the with or without na values data.
+There are no difference between the two median, however the mean seems to decrease.
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
